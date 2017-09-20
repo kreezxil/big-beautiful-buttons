@@ -1,0 +1,15 @@
+{
+"type": "forge:ore_shapeless",
+  "ingredients": [
+      {
+        "item": "minecraft:planks",
+        "data": 5
+      },
+      {
+        "item": "minecraft:chest"
+      }
+    ],
+  "result": {
+    "item": "bigbeautifulbuttons:dark_oak_button"
+  }
+}

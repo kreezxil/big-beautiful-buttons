@@ -1,0 +1,14 @@
+{
+"type": "forge:ore_shapeless",
+  "ingredients": [
+      {
+        "item": "minecraft:snow"
+      },
+      {
+        "item": "minecraft:chest"
+      }
+    ],
+  "result": {
+    "item": "bigbeautifulbuttons:snow_button"
+  }
+}

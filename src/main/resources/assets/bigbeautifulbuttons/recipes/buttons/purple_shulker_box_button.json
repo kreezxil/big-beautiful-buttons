@@ -1,0 +1,14 @@
+{
+"type": "forge:ore_shapeless",
+  "ingredients": [
+      {
+        "item": "minecraft:purple_shulker_box"
+      },
+      {
+        "item": "minecraft:chest"
+      }
+    ],
+  "result": {
+    "item": "bigbeautifulbuttons:purple_shulker_box_button"
+  }
+}

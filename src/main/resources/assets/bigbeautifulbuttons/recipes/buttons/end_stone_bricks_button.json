@@ -1,0 +1,14 @@
+{
+"type": "forge:ore_shapeless",
+  "ingredients": [
+  {
+    "item": "minecraft:chest"
+    },
+      {
+        "item": "minecraft:end_bricks"
+      }
+    ],
+  "result": {
+    "item": "bigbeautifulbuttons:end_stone_bricks_button"
+  }
+}

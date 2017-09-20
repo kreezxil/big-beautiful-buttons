@@ -1,0 +1,14 @@
+{
+"type": "forge:ore_shapeless",
+  "ingredients": [
+      {
+        "item": "minecraft:mossy_cobblestone"
+      },
+      {
+        "item": "minecraft:chest"
+      }
+    ],
+  "result": {
+    "item": "bigbeautifulbuttons:mossy_cobblestone_button"
+  }
+}

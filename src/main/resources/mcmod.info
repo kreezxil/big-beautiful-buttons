@@ -1,0 +1,16 @@
+[
+{
+  "modId": "bigbeautifulbuttons",
+  "name": "Big Beautiful Buttons",
+  "description": "200+ Vanilla 1.12 Blocks craftable into big buttons!",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://minecraft.curseforge.com/projects/big-beautiful-buttons",
+  "updateUrl": "",
+  "authorList": ["Kreezxil"],
+  "credits": "MMD on Discord",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

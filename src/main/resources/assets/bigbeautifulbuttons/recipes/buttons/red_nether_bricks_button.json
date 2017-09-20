@@ -1,0 +1,14 @@
+{
+"type": "forge:ore_shapeless",
+  "ingredients": [
+      {
+        "item": "minecraft:red_nether_brick"
+      },
+      {
+      "item" : "minecraft:chest"
+      }
+    ],
+  "result": {
+    "item": "bigbeautifulbuttons:red_nether_bricks_button"
+  }
+}
